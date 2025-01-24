@@ -72,6 +72,10 @@ class MysteryGame:
       "The Blacksmith", "The Innkeeper","The Jocker", "The Engineer"
     ]
 
+    self.students = [
+      "Ludwing"
+    ]
+
     # All possible objects that might be found
     self.all_objects = [
       "Garden Shears", "Kitchen Knife", "Heavy Book", "Bronze Trophy", "Glass Bottle", "Letter Opener",
