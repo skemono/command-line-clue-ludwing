@@ -69,7 +69,7 @@ class MysteryGame:
       "The Librarian", "The Shopkeeper", "The Gardener", "The Teacher", "The Mayor", "The Chef",
       "The Postman", "The Baker", "The Police Officer", "The Doctor", "The Artist", "The Musician",
       "The Carpenter", "The Tailor", "The Banker", "The Journalist", "The Florist", "The Clockmaker",
-      "The Blacksmith", "The Innkeeper"
+      "The Blacksmith", "The Innkeeper","The Jocker"
     ]
 
     # All possible objects that might be found
