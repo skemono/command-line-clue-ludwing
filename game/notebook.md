@@ -7,7 +7,7 @@
 
 ## Weapons
 - [x] Paint Brush
-- [ ] Brass Candlestick
+- [x] Brass Candlestick
 - [ ] Glass Bottle
 
 ## Notes
@@ -30,4 +30,6 @@ Clockmaker encontrado en la escuela.
 Cuarta pista encontrada, menciona que encontro un camino de polvo yendo hacia la cafetería.
 
 El jocker encontrado en la cafetería.
+
+Brass candlestick encontrado en la cocina.
 
