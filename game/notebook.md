@@ -26,3 +26,5 @@ Shopkeeper encontrado en el playground.
 Tercera pista encontrada, menciona que hay que checar en la escuela.
 
 Clockmaker encontrado en la escuela.
+
+Cuarta pista encontrada, menciona que encontro un camino de polvo yendo hacia la cafetería.
