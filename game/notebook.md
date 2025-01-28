@@ -21,4 +21,7 @@ Encontre un paint brush en el gazebo.
 
 Segunda pista encontrada, menciona que las camaras de seguridad captaron movimiento en la entrada del playground.
 
-Shopkeer encontrado en el playground.
+Shopkeeper encontrado en el playground.
+
+
+Tercera pista encontrada, menciona que hay que checar en la escuela.
