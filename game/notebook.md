@@ -28,3 +28,6 @@ Tercera pista encontrada, menciona que hay que checar en la escuela.
 Clockmaker encontrado en la escuela.
 
 Cuarta pista encontrada, menciona que encontro un camino de polvo yendo hacia la cafetería.
+
+El jocker encontrado en la cafetería.
+
