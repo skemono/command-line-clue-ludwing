@@ -2,7 +2,7 @@
 
 ## Suspects
 - [ ] The Clockmaker
-- [ ] The Shopkeeper
+- [x] The Shopkeeper
 - [ ] The Gardener
 
 ## Weapons
@@ -20,3 +20,5 @@ Despues de leer la pista en game, nos cuentan que el de seguridad hablo con el t
 Encontre un paint brush en el gazebo.
 
 Segunda pista encontrada, menciona que las camaras de seguridad captaron movimiento en la entrada del playground.
+
+Shopkeer encontrado en el playground.
