@@ -33,3 +33,4 @@ El jocker encontrado en la cafetería.
 
 Brass candlestick encontrado en la cocina.
 
+Ya tachamos 2 sospechosos y 2 armas, por lo tanto el asesino es el jardinero o Gardener y uso una botella de vidrio o Glass Bottle para realizar el asesinato.
