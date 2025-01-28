@@ -1,7 +1,7 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Clockmaker
+- [x] The Clockmaker
 - [x] The Shopkeeper
 - [ ] The Gardener
 
@@ -23,5 +23,6 @@ Segunda pista encontrada, menciona que las camaras de seguridad captaron movimie
 
 Shopkeeper encontrado en el playground.
 
-
 Tercera pista encontrada, menciona que hay que checar en la escuela.
+
+Clockmaker encontrado en la escuela.
