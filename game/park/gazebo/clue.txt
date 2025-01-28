@@ -1,0 +1,5 @@
+Investigation Update:
+
+Security cameras caught movement near the playground entrance.
+
+Hint: To reach this location, you'll need to move back and down to the next location: 'cd "../playground"'

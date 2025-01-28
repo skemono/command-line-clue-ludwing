@@ -1,6 +1,6 @@
 New Clue:
 
-Go back and check the gymnasium in the school.
+Maybe we should check back in the school.
 
 Hint: You'll need to go back several directories to reach this location.
 Remember that you can use multiple '../' to go up multiple levels:

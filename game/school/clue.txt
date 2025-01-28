@@ -1,0 +1,5 @@
+Investigation Update:
+
+The dust on the floor shows a clear path heading to the cafeteria.
+
+Remember: Use 'cd "cafeteria"' to follow this lead.

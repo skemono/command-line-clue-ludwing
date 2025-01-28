@@ -1,14 +1,14 @@
 # Detective's Notebook
 
 ## Suspects
-- [ ] The Tailor
-- [ ] The Musician
 - [ ] The Clockmaker
+- [ ] The Shopkeeper
+- [ ] The Gardener
 
 ## Weapons
-- [ ] Silver Watch
-- [ ] Heavy Book
-- [ ] Wooden Box
+- [ ] Paint Brush
+- [ ] Brass Candlestick
+- [ ] Glass Bottle
 
 ## Notes
 *Use this space to record your findings and deductions...*
